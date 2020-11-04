@@ -8,7 +8,7 @@
 ✍️ &nbsp;本人在闲余时间喜欢看游戏直播看综艺节目放松自己，偶尔打打LOL。\
 💬 &nbsp;通常在网络当中寻找更多的满足感，从学习到新的技术，了解到新奇的解决方案。\
 ✉️ &nbsp;本人有个人博客导航网站已经博客园自定义样式的网站。由于咸鱼的时间也不是很多，打理的不是很勤快。\
-📄 &nbsp;有幸的话可以光临我的导航站[哇呜导航](https://www.oicio.cn)和个人网站 [瓜娃子博客](https://www.ihadyou.cn)。\
+📄 &nbsp;有幸的话可以光临我的导航站[哇呜导航](https://www.oicio.cn)和个人网站 [瓜娃子博客](https://www.ihadyou.cn)。
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
