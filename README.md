@@ -9,6 +9,7 @@
 💡 &nbsp;熟悉常用 ETL 工具，如 Kettle,Sqoop。\
 💬 &nbsp;本人非常的喜欢探索一些新的技术和一些工具，通常从学习到新的技术以及新奇的解决方案而获得满足感。\
 ✉️ &nbsp;本人有个人博客导航网站以及博客园自定义样式的网站。由于咸鱼的时间也不是很多，打理的不是很勤快。\
+📄 &nbsp;本人目前阅读的书籍有DAMA数据管理指南、穿越数据的迷宫,希望可以从更高的角度去认识数据管理数据。\
 📄 &nbsp;有幸的话可以光临我的导航站[哇呜导航](https://www.ihadyou.cn/nav)和个人网站 [瓜娃子博客](https://www.ihadyou.cn)以及[博客园](https://www.cnblogs.com/ihadu/)。
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
