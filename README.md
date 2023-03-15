@@ -2,13 +2,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;我非常的喜欢探索一些新的技术和一些工具，最近在学习华为大数据平台的操作。\
-🎓 &nbsp;本人现是一名java开发工程师，有些许高并发经验，对大数据有些许了解，可以结合前端进行一般的开发。\
-🌱 &nbsp;本人有两年多云服务器的运维和网站搭建经验，对腾讯云和阿里云的操作比较熟悉。\
-✍️ &nbsp;本人在闲余时间喜欢看游戏直播看综艺节目放松自己，偶尔打打LOL。\
-💬 &nbsp;通常在网络当中寻找更多的满足感，从学习到新的技术，了解到新奇的解决方案。\
+💡 &nbsp;作为一名程序员,熟练掌握的语言有java、sql,了解并有开发经验的语言有scala、groovy、freemarker、html、css、js、vue、jsp等\
+🎓 &nbsp;本人现是一名数据开发工程师，有线上高并发方案优化经验,对数据治理以及数仓建模有一定的经验和理解,对数据有足够的敏感度。\
+🌱 &nbsp;对linux环境比较熟悉，有两年多云服务器的运维和网站搭建经验,对腾讯云和阿里云的操作比较熟悉。\
+✍️ &nbsp;了解以及熟悉 Hadoop 生态系统各个组件的运用、调优,如 Flink、Hadoop、Hive、Hbase、Canal、Flume、Kafka、kylin。spark,hudi正在学习当中。
+💬 &nbsp;本人非常的喜欢探索一些新的技术和一些工具，通常从学习到新的技术以及新奇的解决方案而获得满足感。\
 ✉️ &nbsp;本人有个人博客导航网站以及博客园自定义样式的网站。由于咸鱼的时间也不是很多，打理的不是很勤快。\
-📄 &nbsp;有幸的话可以光临我的导航站[哇呜导航](https://oicio.cn)和个人网站 [瓜娃子博客](https://www.ihadyou.cn)以及[博客园](https://www.cnblogs.com/ihadu/)。
+📄 &nbsp;有幸的话可以光临我的导航站[哇呜导航](https://www.ihadyou.cn/nav))和个人网站 [瓜娃子博客](https://www.ihadyou.cn)以及[博客园](https://www.cnblogs.com/ihadu/)。
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
